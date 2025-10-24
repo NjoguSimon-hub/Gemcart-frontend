@@ -2,7 +2,7 @@
 
 Modern React-based frontend for the GemCart luxury jewelry e-commerce platform.
 
-## Quick Start
+## Getting Started
 
 ```bash
 npm install
