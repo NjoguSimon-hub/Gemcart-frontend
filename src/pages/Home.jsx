@@ -13,7 +13,7 @@ const Home = () => (
     >
       <div className="text-center text-white px-4">
         <h1 className="text-7xl font-serif font-extrabold mb-6 drop-shadow-2xl bg-gradient-to-r from-yellow-400 to-yellow-600 bg-clip-text text-transparent">
-          ✨ GemCart ✨
+          GemCart
         </h1>
         <p className="text-3xl mb-8 font-elegant font-light drop-shadow-lg">
           Luxury Jewelry & Timepieces
