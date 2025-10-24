@@ -23,7 +23,7 @@ const Home = () => (
           to="/products" 
           className="inline-block bg-gradient-to-r from-yellow-500 to-yellow-600 text-black px-12 py-4 rounded-full text-xl font-bold hover:from-yellow-600 hover:to-yellow-700 transition-all transform hover:scale-105 shadow-2xl"
         >
-          🛍️ Explore Collection
+          Explore Collection
         </Link>
       </div>
     </div>
