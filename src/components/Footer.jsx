@@ -21,7 +21,7 @@ const Footer = () => {
           <div>
             <h3 className="text-xl font-serif font-semibold mb-6 text-yellow-400">Shop</h3>
             <ul className="space-y-3">
-              <li><Link to="/products" className="text-gray-300 hover:text-yellow-400 transition-colors font-light">New Arrivals</Link></li>
+              <li><Link to="/products" className="text-gray-300 hover:text-yellow-400 transition-colors font-light">Latest Arrivals</Link></li>
               <li><Link to="/products?category=Rings" className="text-gray-300 hover:text-yellow-400 transition-colors font-light">💍 Rings</Link></li>
               <li><Link to="/products?category=Necklaces" className="text-gray-300 hover:text-yellow-400 transition-colors font-light">📿 Necklaces</Link></li>
               <li><Link to="/products?category=Earrings" className="text-gray-300 hover:text-yellow-400 transition-colors font-light">👂 Earrings</Link></li>
