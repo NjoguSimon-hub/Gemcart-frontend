@@ -47,7 +47,7 @@ const FeaturedCollection = () => {
         {/* Section Header */}
         <div className="text-center mb-16">
           <h2 className="text-5xl font-serif font-bold mb-4 text-gray-800">
-            ✨ Featured Collection
+            Featured Collection
           </h2>
           <p className="text-xl text-gray-600 mb-8 font-elegant">
             Handpicked luxury pieces that define elegance
