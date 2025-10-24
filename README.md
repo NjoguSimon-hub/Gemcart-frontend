@@ -1,6 +1,6 @@
 # GemCart Frontend
 
-Modern React-based frontend for the GemCart luxury jewelry e-commerce platform.
+Modern React-based frontend application for the GemCart luxury jewelry e-commerce platform.
 
 ## Getting Started
 
