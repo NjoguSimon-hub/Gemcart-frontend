@@ -67,7 +67,7 @@ const Footer = () => {
         {/* Copyright */}
         <div className="border-t border-gray-700 pt-8 text-center">
           <p className="text-gray-400 font-light">
-            © 2024 GemCart. All rights reserved. | Crafted with 💖 for jewelry lovers worldwide.
+            © 2024 GemCart. All rights reserved. | Crafted with love for jewelry enthusiasts worldwide.
           </p>
         </div>
       </div>
