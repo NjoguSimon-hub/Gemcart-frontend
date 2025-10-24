@@ -12,7 +12,7 @@ const Footer = () => {
                GemCart
             </h2>
             <p className="text-gray-300 text-lg mb-6 font-light leading-relaxed">
-              Crafting timeless elegance since 1995. Each piece tells a story of luxury, sophistication, and unmatched quality.
+              Crafting timeless elegance since 1995. Each piece tells a story of luxury, sophistication, and exceptional craftsmanship.
             </p>
 
           </div>
