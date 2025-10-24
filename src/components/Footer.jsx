@@ -9,7 +9,7 @@ const Footer = () => {
           {/* Brand Section */}
           <div className="md:col-span-2">
             <h2 className="text-4xl font-serif font-bold mb-4 bg-gradient-to-r from-yellow-400 to-yellow-600 bg-clip-text text-transparent">
-              💎 GemCart
+               GemCart
             </h2>
             <p className="text-gray-300 text-lg mb-6 font-light leading-relaxed">
               Crafting timeless elegance since 1995. Each piece tells a story of luxury and sophistication.
