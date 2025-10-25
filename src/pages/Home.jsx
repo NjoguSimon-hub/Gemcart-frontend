@@ -13,7 +13,11 @@ const Home = () => (
     >
       <div className="text-center text-white px-4">
         <h1 className="text-7xl font-serif font-extrabold mb-6 drop-shadow-2xl bg-gradient-to-r from-yellow-400 to-yellow-600 bg-clip-text text-transparent">
+
           GemCart
+
+          ✨ GemCart ✨
+
         </h1>
         <p className="text-3xl mb-8 font-elegant font-light drop-shadow-lg">
           Luxury Jewelry & Timepieces
@@ -23,7 +27,11 @@ const Home = () => (
           to="/products" 
           className="inline-block bg-gradient-to-r from-yellow-500 to-yellow-600 text-black px-12 py-4 rounded-full text-xl font-bold hover:from-yellow-600 hover:to-yellow-700 transition-all transform hover:scale-105 shadow-2xl"
         >
+ 
           Explore Collection
+
+          🛍️ Explore Collection
+
         </Link>
       </div>
     </div>
@@ -44,7 +52,11 @@ const Home = () => (
           to="/products" 
           className="inline-block bg-gradient-to-r from-yellow-500 to-yellow-600 text-black px-12 py-4 rounded-full text-xl font-serif font-bold hover:from-yellow-600 hover:to-yellow-700 transition-all transform hover:scale-105 shadow-2xl"
         >
+
           Start Shopping Now
+
+          🛍️ Start Shopping Now
+
         </Link>
       </div>
     </div>

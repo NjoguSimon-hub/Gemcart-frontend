@@ -1,8 +1,16 @@
+
 # GemCart Frontend
 
 Modern React-based frontend application for the GemCart luxury jewelry e-commerce platform.
 
 ## Getting Started
+
+#  GemCart Frontend
+
+React-based frontend for the GemCart luxury jewelry e-commerce platform.
+
+##  Quick Start
+
 
 ```bash
 npm install
@@ -10,6 +18,7 @@ npm start
 ```
 
 **App URL**: http://localhost:3000
+
 
 ## Features
 1. Product browsing with categories
@@ -26,6 +35,22 @@ npm start
 4. **Context API** - State management
 
 ## Project Structure
+
+##  Features
+-  Product browsing with categories
+-  Shopping cart functionality
+-  User authentication
+-  M-Pesa checkout integration
+-  Mobile responsive design
+-  Featured collection showcase
+
+##  Tech Stack
+- **React 18** - UI framework
+- **React Router** - Navigation
+- **Tailwind CSS** - Styling
+- **Context API** - State management
+
+##  Project Structure
 ```
 src/
 ├── components/         # Reusable components
@@ -43,13 +68,20 @@ src/
 └── App.jsx           # Main app component
 ```
 
+
 ## Environment Variables
+
+##  Environment Variables
+
 ```bash
 REACT_APP_API_URL=http://localhost:5000
 REACT_APP_ENVIRONMENT=development
 ```
 
+
 ## Testing
+
+##  Testing
 ```bash
 npm test
 ```
@@ -63,3 +95,22 @@ npm test
 ## Test Account
 1. **Email**: seller@gemcart.com
 2. **Password**: password
+
+##  Deployment
+- **Netlify**: Connect GitHub repo
+- **Vercel**: `vercel --prod`
+- **Build**: `npm run build`
+
+##  Team Tasks
+- [ ] User profile page
+- [ ] Order history page
+- [ ] Advanced search & filters
+- [ ] Product detail enhancements
+- [ ] Mobile optimization
+- [ ] Testing setup
+
+
+
+##  Test Account
+- **Email**: seller@gemcart.com
+- **Password**: password

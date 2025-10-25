@@ -9,10 +9,17 @@ const Footer = () => {
           {/* Brand Section */}
           <div className="md:col-span-2">
             <h2 className="text-4xl font-serif font-bold mb-4 bg-gradient-to-r from-yellow-400 to-yellow-600 bg-clip-text text-transparent">
+
                GemCart
             </h2>
             <p className="text-gray-300 text-lg mb-6 font-light leading-relaxed">
               Crafting timeless elegance since 1995. Each piece tells a story of luxury, sophistication, and exceptional craftsmanship.
+
+              💎 GemCart
+            </h2>
+            <p className="text-gray-300 text-lg mb-6 font-light leading-relaxed">
+              Crafting timeless elegance since 1995. Each piece tells a story of luxury and sophistication.
+
             </p>
 
           </div>
@@ -21,12 +28,21 @@ const Footer = () => {
           <div>
             <h3 className="text-xl font-serif font-semibold mb-6 text-yellow-400">Shop</h3>
             <ul className="space-y-3">
+
               <li><Link to="/products" className="text-gray-300 hover:text-yellow-400 transition-colors font-light">Latest Arrivals</Link></li>
               <li><Link to="/products?category=Rings" className="text-gray-300 hover:text-yellow-400 transition-colors font-light"> Rings</Link></li>
               <li><Link to="/products?category=Necklaces" className="text-gray-300 hover:text-yellow-400 transition-colors font-light">Necklaces</Link></li>
               <li><Link to="/products?category=Earrings" className="text-gray-300 hover:text-yellow-400 transition-colors font-light"> Earrings</Link></li>
               <li><Link to="/products?category=Bracelets" className="text-gray-300 hover:text-yellow-400 transition-colors font-light"> Bracelets</Link></li>
               <li><Link to="/products?category=Watches" className="text-gray-300 hover:text-yellow-400 transition-colors font-light"> Watches</Link></li>
+
+              <li><Link to="/products" className="text-gray-300 hover:text-yellow-400 transition-colors font-light">New Arrivals</Link></li>
+              <li><Link to="/products?category=Rings" className="text-gray-300 hover:text-yellow-400 transition-colors font-light">💍 Rings</Link></li>
+              <li><Link to="/products?category=Necklaces" className="text-gray-300 hover:text-yellow-400 transition-colors font-light">📿 Necklaces</Link></li>
+              <li><Link to="/products?category=Earrings" className="text-gray-300 hover:text-yellow-400 transition-colors font-light">👂 Earrings</Link></li>
+              <li><Link to="/products?category=Bracelets" className="text-gray-300 hover:text-yellow-400 transition-colors font-light">💝 Bracelets</Link></li>
+              <li><Link to="/products?category=Watches" className="text-gray-300 hover:text-yellow-400 transition-colors font-light">⌚ Watches</Link></li>
+
             </ul>
           </div>
 
@@ -67,7 +83,11 @@ const Footer = () => {
         {/* Copyright */}
         <div className="border-t border-gray-700 pt-8 text-center">
           <p className="text-gray-400 font-light">
+
             © 2024 GemCart. All rights reserved. | Crafted with love for jewelry enthusiasts worldwide.
+
+            © 2024 GemCart. All rights reserved. | Crafted with 💖 for jewelry lovers worldwide.
+
           </p>
         </div>
       </div>

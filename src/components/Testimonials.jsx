@@ -33,7 +33,11 @@ const Testimonials = () => {
       <div className="container mx-auto px-6">
         <div className="text-center mb-16">
           <h2 className="text-5xl font-serif font-bold mb-4 text-yellow-400">
+
             What Our Customers Say
+
+            💎 What Our Customers Say
+
           </h2>
           <p className="text-xl text-gray-300 font-elegant">
             Trusted by jewelry lovers worldwide

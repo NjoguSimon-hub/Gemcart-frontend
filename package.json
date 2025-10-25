@@ -1,6 +1,11 @@
 {
+
   "name": "gemcart-frontend",
   "version": "1.0.0",
+
+  "name": "gemcart-client",
+  "version": "0.1.0",
+
   "private": true,
   "dependencies": {
     "react": "^18.2.0",
